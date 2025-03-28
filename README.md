@@ -35,4 +35,6 @@
     </a>
   </p>
 </details>
+### <img align="center" src="https://github.com/thuynguyen95/thuynguyen95/blob/main/icons/activity.gif"  width="25"/> Recent Activity
+<!--START_SECTION:activity-->
 </details>
