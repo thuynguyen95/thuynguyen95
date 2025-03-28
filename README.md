@@ -35,6 +35,5 @@
     </a>
   </p>
 </details>
-### <img align="center" src="https://github.com/thuynguyen95/thuynguyen95/blob/main/icons/github-contribution-grid-snake.svg"  width="25"/> Recent Activity
-<!--START_SECTION:activity-->
+<img align="center" src="https://github.com/thuynguyen95/thuynguyen95/blob/output/github-contribution-grid-snake.svg"  width="100%"/>
 </details>
