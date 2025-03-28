@@ -13,10 +13,18 @@
  </details>
  <details>
   <summary><h4> <img align="center" src="https://github.com/thuynguyen95/thuynguyen95/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  <div>
   - **Software Engineer - FE Developer ** at TINYPulse | 12/2020 - Present
+  </div>
+  <div>
   - **Software Engineer - FE Developer ** at Home Credit | 12/2018 - 11/2020
+  </div>
+  <div>
   - **Software Engineer - FE Developer ** at KMS Technology | 10/2017 - 11/2018
+  </div>
+  <div>
   - **Software Engineer - Intership ** at Global Cyber Soft | 7/2016 - 10/2016
+  </div>
  </details>
  <details>
   <summary><h2> <img align="center" src="https://github.com/thuynguyen95/thuynguyen95/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
